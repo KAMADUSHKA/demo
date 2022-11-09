@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KAMADUSHKA/demo/issues"
   },
-  "homepage": "https://github.com/KAMADUSHKA/demo#readme"
+  "homepage": "https://github.com/KAMADUSHKA/demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
